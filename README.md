@@ -355,3 +355,13 @@ You can find below information and references related to the project management 
  - Features developed are tested and robust, they have visual queues for users already implemented, ...
  - Envision the product from the perspective of a larger audience (public or mass market)
  - Implementing all planned features and accomplishing all the objectives for the sprint (good estimation)
+
+---
+
+## Tips and Tricks (for anyone doing a similar project)
+
+- In ESOF, they are very picky about how you organize your project, how you do the UMLs, how you use Github, etc. You have to be very careful with everything if you want a good grade. Also, if in any step you have doubts, I suggest asking your professor or seeking the slides from the theory classes.
+
+## Results
+
+Final Grade: 19.0/20
